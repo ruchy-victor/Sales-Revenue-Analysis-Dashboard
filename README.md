@@ -58,7 +58,7 @@ To build a business intelligence dashboard that enables:
 - Explored geographical sales performance using map visualization.
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](dashboard_screenshot.jpeg)
 
 ## 📂 Repository Contents
 - `Sales_Revenue_Analysis_Dashboard.pbix` – Power BI dashboard file
